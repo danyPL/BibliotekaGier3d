@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotekaGier3d", "BibliotekaGier3d\BibliotekaGier3d.csproj", "{ECDC6A6E-4CBC-4D5A-9466-082E0AE0F06E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDC6A6E-4CBC-4D5A-9466-082E0AE0F06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDC6A6E-4CBC-4D5A-9466-082E0AE0F06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDC6A6E-4CBC-4D5A-9466-082E0AE0F06E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ECDC6A6E-4CBC-4D5A-9466-082E0AE0F06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDC6A6E-4CBC-4D5A-9466-082E0AE0F06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDC6A6E-4CBC-4D5A-9466-082E0AE0F06E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5207B5AF-AE4C-47C0-88D8-FE7E49DAE2AA}
+	EndGlobalSection
+EndGlobal
